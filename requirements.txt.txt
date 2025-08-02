@@ -1,0 +1,21 @@
+# 核心 AI 套件
+tensorflow>=2.8
+keras>=2.8
+
+# 影像處理
+opencv-python
+mediapipe
+
+# 數據處理
+numpy
+einops
+tqdm
+imageio
+matplotlib
+seaborn
+collections
+pathlib
+
+# Jupyter Notebook 執行所需
+ipython
+notebook
