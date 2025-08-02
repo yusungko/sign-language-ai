@@ -94,6 +94,6 @@ Signbert.ipynb
 手語識別／助聽應用
 
 ## 📫 聯絡方式
-GitHub: yusungko
+GitHub: [@yusungko](https://github.com/yusungko)
 
 Email: st950157@gmail.com
