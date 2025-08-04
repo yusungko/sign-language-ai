@@ -47,8 +47,8 @@ Video (mp4)
 ```bash
 sign-language-ai/
 ├── notebooks/                 # Jupyter Notebook 原始碼
-│   ├── delBlack.ipynb
 │   ├── Mediapipe.ipynb
+│   ├── delBlack.ipynb
 │   ├── Signbert.ipynb
 │   ├── 3DCNN.ipynb
 │   └── ...
@@ -80,9 +80,9 @@ tqdm
 ### 2️⃣ 執行 Notebook
 依照順序執行以下 .ipynb：
 
-delBlack.ipynb
-
 Mediapipe.ipynb
+
+delBlack.ipynb
 
 Signbert.ipynb
 
