@@ -18,7 +18,6 @@
 
 3. **模型訓練**
    - 使用 TensorFlow + Keras 建立 `3D CNN + ResNeXt` 架構 (`3DCNN.ipynb`)
-   - 可擴充為句子辨識模型（支援 BERT 架構，訓練中）
 
 ---
 
